@@ -1,7 +1,7 @@
 time_stemmers
 =============
 
-A simple script to time stemmers.
+A simple script to time python's stemmers.
 
 **TL;DR:**
 
